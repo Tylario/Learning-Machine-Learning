@@ -1,0 +1,1 @@
+This repository contains a collection of Jupyter notebooks completed for a university Machine Learning course. Each notebook implements core ML algorithms from scratch using NumPy, along with full workflows for data cleaning, feature engineering, training, and evaluation.
